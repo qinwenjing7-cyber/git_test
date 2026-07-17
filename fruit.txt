@@ -1,3 +1,7 @@
 banana
 watermelon
 purple
+菠萝
+凤梨
+山竹
+牛油果
